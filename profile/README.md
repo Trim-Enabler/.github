@@ -65,9 +65,6 @@ It’s designed to respect macOS security: you get clear prompts, and the tool d
 
 ---
 
-![Health + TRIM Info](https://heise.cloudimg.io/v7/_www-heise-de_/download/media/trim-enabler-79840/trim-enabler-1_1-1-16.jpg?force_format=avif,webp,jpeg)
-
----
 
 ## 🖥 Minimum System Requirements
 
